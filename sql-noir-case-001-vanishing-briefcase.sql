@@ -6,3 +6,4 @@
 -- SELECT * FROM crime_scene;
 
 SELECT * FROM suspects;
+began game
